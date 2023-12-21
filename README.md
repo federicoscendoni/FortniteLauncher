@@ -14,5 +14,3 @@ Fully working custom Fortnite launcher written in C# which can bypass anti-cheat
 - RestSharp
 - Costura
 - Costura.Fody
-
-
